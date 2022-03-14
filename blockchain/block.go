@@ -1,7 +1,6 @@
 package blockchain
 
 import (
-	"fmt"
 	"bytes"
 	"crypto/sha256"
 
